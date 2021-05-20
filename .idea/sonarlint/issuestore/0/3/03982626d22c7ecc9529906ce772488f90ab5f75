@@ -1,0 +1,6 @@
+
+ssquid:S2236""PRefactor the synchronisation mechanism to not use a Thread instance as a monitor(£¶å”øÿÿÿÿ8®•‚¤Ô-
+Wsquid:S2274	":Remove this call to "wait" or move it into a "while" loop.(ç£ŠM8³–ã£Ô-
+Xsquid:S1161":Add the "@Override" annotation above this method signature(“–ýþ8³–ã£Ô-
+nsquid:CommentedOutCodeLine%"<This block of commented-out lines of code should be removed.(þƒÍþÿÿÿÿ8Á¢ü£Ô-
+asquid:S2276"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(èÅì8Úêÿ£Ô-

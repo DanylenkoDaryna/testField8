@@ -1,0 +1,7 @@
+
+Isquid:S1612",Replace this lambda with a method reference.(§ßÌn8æ½£Ô-
+]squid:S2274":Remove this call to "wait" or move it into a "while" loop.(‹çÊãøÿÿÿÿ8¢’®£Ô-
+vsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(ˆÃ¥Áÿÿÿÿÿ8—œ£Ô-
+Fsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8¢’®£Ô-
+Isquid:S1602",Remove useless curly braces around statement(§ßÌn8æ½£Ô-
+dsquid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8¢’®£Ô-
